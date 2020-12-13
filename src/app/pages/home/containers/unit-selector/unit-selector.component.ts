@@ -9,7 +9,7 @@ import * as fromConfigSelectors from '../../../../shared/state/config/config.sel
 import * as fromConfigActions from '../../../../shared/state/config/config.actions';
 
 @Component({
-  selector: 'jv-unit-selector',
+  selector: 'br-unit-selector',
   templateUrl: 'unit-selector.component.html',
   styleUrls: ['unit-selector.component.scss'],
 })
